@@ -63,7 +63,7 @@ const adnan = {
 
 ### 🎨 Frontend Development
 
-<p align="left">
+<p align="center">
   <a href="#"><img src="https://skillicons.dev/icons?i=html,css,js,bootstrap,tailwind,react&theme=dark" /></a>
 </p>
 
@@ -78,7 +78,7 @@ const adnan = {
 
 ### ⚙️ Backend Development
 
-<p align="left">
+<p align="center">
   <a href="#"><img src="https://skillicons.dev/icons?i=php,laravel,nodejs,express,mysql&theme=dark" /></a>
 </p>
 
@@ -92,7 +92,7 @@ const adnan = {
 
 ### 🖥️ Desktop Development
 
-<p align="left">
+<p align="center">
   <a href="#"><img src="https://skillicons.dev/icons?i=java&theme=dark" /></a>
   &nbsp;
   <img src="https://img.shields.io/badge/Java%20Swing-007396?style=for-the-badge&logo=java&logoColor=white"/>
@@ -109,7 +109,7 @@ const adnan = {
 
 ### 📡 IoT & Embedded Systems
 
-<p align="left">
+<p align="center">
   <a href="#"><img src="https://skillicons.dev/icons?i=arduino&theme=dark" /></a>
   &nbsp;
   <img src="https://img.shields.io/badge/ESP32-E7352C?style=for-the-badge&logo=esphome&logoColor=white"/>
@@ -127,7 +127,7 @@ const adnan = {
 
 ### 🧰 Tools & Platforms
 
-<p align="left">
+<p align="center">
   <a href="#"><img src="https://skillicons.dev/icons?i=git,github,vscode,figma,docker&theme=dark" /></a>
   &nbsp;
   <img src="https://img.shields.io/badge/XAMPP-FB7A24?style=for-the-badge&logo=xampp&logoColor=white"/>
