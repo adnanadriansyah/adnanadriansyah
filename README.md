@@ -4,7 +4,7 @@
 
 <br/>
 
-<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=700&size=24&pause=800&color=00F7FF&center=true&vCenter=true&random=false&width=750&height=60&lines=🚀+Full-Stack+Web+Developer;☕+Java+Desktop+Developer;📡+IoT+%7C+ESP32+%7C+Node-RED+Builder;⚡+Laravel+%7C+React+%7C+JavaScript;🌱+Always+Learning+New+Technologies" alt="Typing SVG" />
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=700&size=24&pause=800&color=00F7FF&center=true&vCenter=true&random=false&width=750&height=60&lines=+Full-Stack+Web+Developer;+Java+Desktop+Developer;+IoT+%7C+ESP32+%7C+Node-RED+Builder;+Laravel+%7C+React+%7C+JavaScript;+Always+Learning+New+Technologies" alt="Typing SVG" />
 
 <br/><br/>
 
@@ -16,14 +16,14 @@
 
 ---
 
-## 👨‍💻 About Me
+##  About Me
 
 <p align="center">
 I am an Informatics student at <strong>Politeknik Negeri Lhokseumawe</strong> with a strong passion for designing, developing, and maintaining modern digital solutions across web, desktop, and IoT platforms. My focus is on combining software engineering principles with practical implementation to create <strong>responsive, efficient, and user-centered applications</strong>.
 <br/><br/>
 I actively build projects ranging from full-stack websites and Java Swing desktop systems to smart IoT automation using <strong>ESP32, MQTT, and Node-RED</strong>. I am particularly interested in integrating web technologies, intelligent systems, and hardware automation into impactful real-world projects.
 <br/><br/>
-💡 Always curious &nbsp;•&nbsp; ⚡ Always building &nbsp;•&nbsp; 🌱 Always improving
+ Always curious &nbsp;•&nbsp;  Always building &nbsp;•&nbsp;  Always improving
 </p>
 
 <br/>
@@ -41,27 +41,27 @@ I actively build projects ranging from full-stack websites and Java Swing deskto
 
 ---
 
-## 🎯 What I'm Up To
+##  What I'm Up To
 
 <div align="center">
 
 | | Activity |
 |:---:|:---|
-| 🔭 | Building **responsive web apps** with Laravel & React |
-| 🖥️ | Developing **Java Swing desktop apps** with MariaDB |
-| 📡 | Exploring **IoT ecosystems** via ESP32, MQTT & Node-RED |
-| 🔧 | Enhancing **backend systems** & API integration |
-| 🌱 | Always **learning** and improving every day |
+|  | Building **responsive web apps** with Laravel & React |
+|  | Developing **Java Swing desktop apps** with MariaDB |
+|  | Exploring **IoT ecosystems** via ESP32, MQTT & Node-RED |
+|  | Enhancing **backend systems** & API integration |
+|  | Always **learning** and improving every day |
 
 </div>
 
 ---
 
-## 🛠️ Technical Skills
+##  Technical Skills
 
 <div align="center">
 
-### 🎨 Frontend Development
+###  Frontend Development
 
 <img src="https://skillicons.dev/icons?i=html,css,js,bootstrap,tailwind,react&theme=dark" />
 
@@ -80,7 +80,7 @@ I actively build projects ranging from full-stack websites and Java Swing deskto
 
 <div align="center">
 
-### ⚙️ Backend Development
+###  Backend Development
 
 <img src="https://skillicons.dev/icons?i=php,laravel,nodejs,express,mysql&theme=dark" />
 
@@ -98,7 +98,7 @@ I actively build projects ranging from full-stack websites and Java Swing deskto
 
 <div align="center">
 
-### 🖥️ Desktop Development
+###  Desktop Development
 
 <img src="https://skillicons.dev/icons?i=java&theme=dark" />
 
@@ -115,7 +115,7 @@ I actively build projects ranging from full-stack websites and Java Swing deskto
 
 <div align="center">
 
-### 📡 IoT & Embedded Systems
+###  IoT & Embedded Systems
 
 <img src="https://skillicons.dev/icons?i=arduino&theme=dark" />
 
@@ -133,7 +133,7 @@ I actively build projects ranging from full-stack websites and Java Swing deskto
 
 <div align="center">
 
-### 🧰 Tools & Platforms
+###  Tools & Platforms
 
 <img src="https://skillicons.dev/icons?i=git,github,vscode,figma,docker&theme=dark" />
 
@@ -150,7 +150,7 @@ I actively build projects ranging from full-stack websites and Java Swing deskto
 
 ---
 
-## 🏆 GitHub Trophies
+##  GitHub Trophies
 
 <div align="center">
 
@@ -160,12 +160,12 @@ I actively build projects ranging from full-stack websites and Java Swing deskto
 
 ---
 
-## 🚀 Featured Projects
+##  Featured Projects
 
 <table align="center">
   <tr>
     <td align="center" width="50%">
-      <h3>🚪 Smart Gate IoT System</h3>
+      <h3> Smart Gate IoT System</h3>
       <p>ESP32-based automated gate with <strong>Telegram Bot, RFID, Node-RED & MySQL</strong> for real-time monitoring and remote control.</p>
       <p>
         <img src="https://img.shields.io/badge/ESP32-E7352C?style=flat-square&logo=esphome&logoColor=white"/>
@@ -176,7 +176,7 @@ I actively build projects ranging from full-stack websites and Java Swing deskto
       </p>
     </td>
     <td align="center" width="50%">
-      <h3>🧾 Restaurant Cashier App</h3>
+      <h3> Restaurant Cashier App</h3>
       <p>Java Swing + MariaDB desktop cashier with <strong>transaction management, reporting & integrated database</strong> architecture.</p>
       <p>
         <img src="https://img.shields.io/badge/Java-F89820?style=flat-square&logo=openjdk&logoColor=white"/>
@@ -188,7 +188,7 @@ I actively build projects ranging from full-stack websites and Java Swing deskto
   </tr>
   <tr>
     <td align="center" width="50%">
-      <h3>🌐 Personal Portfolio Website</h3>
+      <h3> Personal Portfolio Website</h3>
       <p>Responsive web portfolio showcasing projects, skills & development journey.</p>
       <p>
         <img src="https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white"/>
@@ -197,7 +197,7 @@ I actively build projects ranging from full-stack websites and Java Swing deskto
       </p>
     </td>
     <td align="center" width="50%">
-      <h3>📊 IoT Monitoring Dashboard</h3>
+      <h3> IoT Monitoring Dashboard</h3>
       <p>Real-time dashboard for IoT sensor data with live charts, alerts & remote control.</p>
       <p>
         <img src="https://img.shields.io/badge/Laravel-FF2D20?style=flat-square&logo=laravel&logoColor=white"/>
@@ -210,7 +210,7 @@ I actively build projects ranging from full-stack websites and Java Swing deskto
 
 ---
 
-## 📊 GitHub Stats
+##  GitHub Stats
 
 <div align="center">
 
@@ -225,7 +225,7 @@ I actively build projects ranging from full-stack websites and Java Swing deskto
 
 ---
 
-## 📈 Contribution Graph
+##  Contribution Graph
 
 <div align="center">
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=adnanadriansyah&bg_color=0d1117&color=00F7FF&line=00F7FF&point=ffffff&area=true&area_color=00F7FF&hide_border=true" />
@@ -233,26 +233,26 @@ I actively build projects ranging from full-stack websites and Java Swing deskto
 
 ---
 
-## 🔬 Research & Interests
+##  Research & Interests
 
 <div align="center">
 
-| 🤖 Smart Automation | 🌐 Web Info Systems | ☕ Java Desktop |
+|  Smart Automation |  Web Info Systems |  Java Desktop |
 |:---:|:---:|:---:|
-| ☁️ SaaS Development | 🧠 AI Chatbot Systems | 📡 IoT Dashboards |
+|  SaaS Development |  AI Chatbot Systems |  IoT Dashboards |
 
 </div>
 
 ---
 
-## 🤝 Connect With Me
+##  Connect With Me
 
 <div align="center">
 
 [![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/adnanadriansyah)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/yourlinkedin)
-[![Email](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:youremail@gmail.com)
-[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/yourusername)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/adnanadriansyah)
+[![Email](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:adnanadriansyah5@gmail.com)
+[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/adnanadriansyah_)
 
 </div>
 
@@ -269,5 +269,5 @@ I actively build projects ranging from full-stack websites and Java Swing deskto
 <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=120&section=footer&animation=twinkling" />
 
 <div align="center">
-  <h3>✨ "Code with purpose, build with passion, and innovate for impact." ✨</h3>
+  <h3> "Code with purpose, build with passion, and innovate for impact." </h3>
 </div>
