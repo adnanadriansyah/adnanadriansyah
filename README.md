@@ -16,7 +16,9 @@
 
 ## 👨‍💻 About Me
 
-<img align="right" width="380" src="https://github-readme-stats.vercel.app/api?username=adnanadriansyah&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=00F7FF&icon_color=00F7FF&text_color=c9d1d9&count_private=true" />
+<table>
+  <tr>
+    <td valign="top" width="55%">
 
 ```javascript
 const adnan = {
@@ -29,11 +31,18 @@ const adnan = {
     "IoT Automation"
   ],
   currently: "Building impactful digital solutions",
-  motto    : "Code with purpose 🚀"
+  motto    : "Code with purpose, build with passion 🚀"
 };
 ```
 
-<br clear="right"/>
+  </td>
+  <td valign="top" width="45%">
+    <img src="https://github-readme-stats.vercel.app/api?username=adnanadriansyah&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=00F7FF&icon_color=00F7FF&text_color=c9d1d9&count_private=true" width="100%" />
+    <br/>
+    <img src="https://github-readme-streak-stats.herokuapp.com/?user=adnanadriansyah&theme=tokyonight&hide_border=true&background=0d1117&stroke=21262d&ring=00F7FF&fire=ff6b6b&currStreakLabel=00F7FF&sideLabels=c9d1d9&dates=484f58" width="100%" />
+  </td>
+  </tr>
+</table>
 
 ---
 
@@ -62,9 +71,8 @@ const adnan = {
 ## 🛠️ Technical Skills
 
 ### 🎨 Frontend Development
-
-<p align="center">
-  <a href="#"><img src="https://skillicons.dev/icons?i=html,css,js,bootstrap,tailwind,react&theme=dark" /></a>
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=html,css,js,bootstrap,tailwind,react&theme=dark" />
 </p>
 
 ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white)
@@ -77,9 +85,8 @@ const adnan = {
 ---
 
 ### ⚙️ Backend Development
-
-<p align="center">
-  <a href="#"><img src="https://skillicons.dev/icons?i=php,laravel,nodejs,express,mysql&theme=dark" /></a>
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=php,laravel,nodejs,express,mysql&theme=dark" />
 </p>
 
 ![PHP](https://img.shields.io/badge/PHP-8993BE?style=flat-square&logo=php&logoColor=white)
@@ -91,9 +98,8 @@ const adnan = {
 ---
 
 ### 🖥️ Desktop Development
-
-<p align="center">
-  <a href="#"><img src="https://skillicons.dev/icons?i=java&theme=dark" /></a>
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=java&theme=dark" />
   &nbsp;
   <img src="https://img.shields.io/badge/Java%20Swing-007396?style=for-the-badge&logo=java&logoColor=white"/>
   <img src="https://img.shields.io/badge/NetBeans-1B6AC6?style=for-the-badge&logo=apache-netbeans-ide&logoColor=white"/>
@@ -108,9 +114,8 @@ const adnan = {
 ---
 
 ### 📡 IoT & Embedded Systems
-
-<p align="center">
-  <a href="#"><img src="https://skillicons.dev/icons?i=arduino&theme=dark" /></a>
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=arduino&theme=dark" />
   &nbsp;
   <img src="https://img.shields.io/badge/ESP32-E7352C?style=for-the-badge&logo=esphome&logoColor=white"/>
   <img src="https://img.shields.io/badge/MQTT-660066?style=for-the-badge&logo=eclipse-mosquitto&logoColor=white"/>
@@ -126,9 +131,8 @@ const adnan = {
 ---
 
 ### 🧰 Tools & Platforms
-
-<p align="center">
-  <a href="#"><img src="https://skillicons.dev/icons?i=git,github,vscode,figma,docker&theme=dark" /></a>
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=git,github,vscode,figma,docker&theme=dark" />
   &nbsp;
   <img src="https://img.shields.io/badge/XAMPP-FB7A24?style=for-the-badge&logo=xampp&logoColor=white"/>
 </p>
@@ -144,20 +148,7 @@ const adnan = {
 
 ## 🚀 Featured Projects
 
-<div align="center">
-
-<a href="https://github.com/adnanadriansyah">
-  <img width="49%" src="https://github-readme-stats.vercel.app/api/pin/?username=adnanadriansyah&repo=smart-gate-iot&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=00F7FF&icon_color=00F7FF&text_color=c9d1d9" />
-</a>
-<a href="https://github.com/adnanadriansyah">
-  <img width="49%" src="https://github-readme-stats.vercel.app/api/pin/?username=adnanadriansyah&repo=restaurant-cashier&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=00F7FF&icon_color=00F7FF&text_color=c9d1d9" />
-</a>
-
-</div>
-
-<br/>
-
-<table align="center">
+<table>
   <tr>
     <td align="center" width="50%">
       <h3>🚪 Smart Gate IoT System</h3>
@@ -214,7 +205,7 @@ const adnan = {
 
 <br/><br/>
 
-<img width="40%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=adnanadriansyah&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=00F7FF&text_color=c9d1d9&langs_count=8" />
+<img width="42%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=adnanadriansyah&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=00F7FF&text_color=c9d1d9&langs_count=8" />
 
 </div>
 
@@ -245,9 +236,9 @@ const adnan = {
 <div align="center">
 
 [![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/adnanadriansyah)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/yourlinkedin)
-[![Email](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:youremail@gmail.com)
-[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/yourusername)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/adnanardiansyah)
+[![Email](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:adnanadriansyah5@gmail.com)
+[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/adnanadriansyah_)
 
 </div>
 
