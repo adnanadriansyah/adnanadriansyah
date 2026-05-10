@@ -1,6 +1,7 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=180&section=header&text=Adnan%20Adriansyah&fontSize=42&fontColor=fff&animation=twinkling&fontAlignY=32&desc=Informatics%20Student%20%7C%20Full-Stack%20Developer%20%7C%20IoT%20Enthusiast&descAlignY=55&descSize=16" />
+<img src="<img width="720" height="1280" alt="dd" src="https://github.com/user-attachments/assets/792a7a9e-6182-442e-8b16-8d4e01176f04" />
+/api?type=waving&color=gradient&customColorList=6,11,20&height=180&section=header&text=Adnan%20Adriansyah&fontSize=42&fontColor=fff&animation=twinkling&fontAlignY=32&desc=Informatics%20Student%20%7C%20Full-Stack%20Developer%20%7C%20IoT%20Enthusiast&descAlignY=55&descSize=16" />
 
 <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=22&pause=1000&color=00F7FF&center=true&vCenter=true&random=false&width=700&lines=🚀+Full-Stack+Web+Developer;☕+Java+Desktop+Developer;📡+IoT+%7C+ESP32+%7C+Node-RED+Builder;⚡+Laravel+%7C+React+%7C+JavaScript;🌱+Always+Learning+New+Technologies" alt="Typing SVG" />
 
