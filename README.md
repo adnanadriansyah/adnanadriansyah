@@ -1,7 +1,14 @@
-# Adnan Adriansyah
+<h1 align="center">Adnan Adriansyah</h1>
 
-### Informatics Student | Full-Stack Web Developer | Java & IoT Enthusiast  
-Politeknik Negeri Lhokseumawe | Web Development, Java Applications, IoT Systems
+<h3 align="center">Informatics Student | Full-Stack Web Developer | Java & IoT Enthusiast </h3>
+
+<p align="center">
+  Politeknik Negeri Lhokseumawe | Web Development, Java Applications, IoT Systems
+</p>
+
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&pause=1000&color=00F7FF&center=true&vCenter=true&width=800&lines=Full-Stack+Web+Developer;Java+Desktop+Developer;IoT+%7C+ESP32+%7C+Node-RED+Builder;Laravel+%7C+React+%7C+JavaScript;Always+Learning+New+Technologies+🚀" alt="Typing SVG" />
+</p>
 
 ---
 
@@ -11,100 +18,111 @@ I am an Informatics student with a strong passion for designing, developing, and
 
 I actively build projects ranging from full-stack websites and Java Swing desktop systems to smart IoT automation using ESP32, MQTT, and Node-RED.
 
-My development interests include:
-
-- Full-Stack Web Development  
-- Java Desktop Application Development  
-- IoT Systems & Automation  
-- Database Design & Management  
-- Software Engineering & Problem Solving  
-- UI/UX-Oriented Application Design  
+###  My Development Interests:
+-  Full-Stack Web Development  
+-  Java Desktop Application Development  
+-  IoT Systems & Automation  
+-  Database Design & Management  
+-  Software Engineering & Problem Solving  
+-  UI/UX-Oriented Application Design  
 
 I am particularly interested in integrating web technologies, intelligent systems, and hardware automation into impactful real-world projects.
 
 ---
 
-## Current Focus
+##  Current Focus
 
-- Building responsive and scalable web applications using HTML, CSS, JavaScript, Laravel, and React  
-- Developing cashier systems, dashboards, and desktop applications with Java Swing & MariaDB  
-- Exploring IoT ecosystems through ESP32, Arduino, MQTT, and Node-RED  
-- Enhancing skills in backend systems, API integration, and software architecture  
-- Continuously improving analytical thinking and development efficiency  
-
----
-
-## Technical Skills
-
-### Frontend Development
-- HTML5  
-- CSS3  
-- JavaScript  
-- Bootstrap  
-- Tailwind CSS  
-- React JS  
-
-### Backend Development
-- PHP  
-- Laravel Framework  
-- Node.js  
-- Express.js  
-- MySQL / MariaDB  
-
-### Desktop Development
-- Java  
-- Java Swing  
-- NetBeans  
-
-### IoT & Embedded Systems
-- Arduino  
-- ESP32  
-- MQTT Protocol  
-- Node-RED  
-
-### Tools & Platforms
-- Git & GitHub  
-- VS Code  
-- Figma  
-- XAMPP  
-- Docker (Learning)  
+-  Building responsive and scalable web applications using HTML, CSS, JavaScript, Laravel, and React  
+-  Developing cashier systems, dashboards, and desktop applications with Java Swing & MariaDB  
+-  Exploring IoT ecosystems through ESP32, Arduino, MQTT, and Node-RED  
+-  Enhancing backend systems, API integration, and software architecture  
+-  Continuously improving analytical thinking and development efficiency  
 
 ---
 
-## Research & Project Interests
+##  Technical Skills
 
-- Smart Automation Systems  
-- Web-Based Information Systems  
-- Java Desktop Solutions  
-- SaaS Development  
-- AI Chatbot Systems  
-- IoT Monitoring Dashboards  
+###  Frontend Development
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=html,css,js,bootstrap,tailwind,react" />
+</p>
+
+###  Backend Development
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=php,laravel,nodejs,express,mysql" />
+</p>
+
+###  Desktop Development
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=java" />
+  <img src="https://img.shields.io/badge/Java%20Swing-007396?style=for-the-badge&logo=java&logoColor=white"/>
+  <img src="https://img.shields.io/badge/NetBeans-1B6AC6?style=for-the-badge&logo=apache-netbeans-ide&logoColor=white"/>
+</p>
+
+###  IoT & Embedded Systems
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=arduino" />
+  <img src="https://img.shields.io/badge/ESP32-E7352C?style=for-the-badge&logo=esphome&logoColor=white"/>
+  <img src="https://img.shields.io/badge/MQTT-660066?style=for-the-badge&logo=eclipse-mosquitto&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Node--RED-8F0000?style=for-the-badge&logo=nodered&logoColor=white"/>
+</p>
+
+###  Tools & Platforms
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=git,github,vscode,figma,docker" />
+  <img src="https://img.shields.io/badge/XAMPP-FB7A24?style=for-the-badge&logo=xampp&logoColor=white"/>
+</p>
 
 ---
 
-## Selected Projects
+##  Research & Project Interests
 
-### Smart Gate IoT System  
+-  Smart Automation Systems  
+-  Web-Based Information Systems  
+-  Java Desktop Solutions  
+-  SaaS Development  
+-  AI Chatbot Systems  
+-  IoT Monitoring Dashboards  
+
+---
+
+##  Selected Projects
+
+###  Smart Gate IoT System  
 ESP32-based automated gate system integrated with Telegram Bot, RFID, Node-RED, and MySQL for monitoring and remote control.
 
-### Restaurant Cashier Application  
+###  Restaurant Cashier Application  
 Java Swing + MariaDB desktop cashier application with transaction management, reporting, and integrated database architecture.
 
-### Personal Portfolio Website  
+###  Personal Portfolio Website  
 Responsive web portfolio showcasing projects, skills, and development journey.
 
 ---
 
-## Learning Philosophy
+##  GitHub Stats
 
-I believe technology should not only solve problems but also create efficiency, innovation, and meaningful experiences. My goal is to continuously grow as a developer capable of bridging software, hardware, and intelligent systems.
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=adnanadriansyah&show_icons=true&theme=tokyonight" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=adnanadriansyah&theme=tokyonight" />
+</p>
 
 ---
 
-## Connect With Me
+##  Connect With Me
 
-- GitHub: https://github.com/adnanadriansyah  
+<p align="left">
+  <a href="https://github.com/adnanadriansyah">
+    <img src="https://skillicons.dev/icons?i=github" />
+  </a>
+</p>
 
 ---
 
-### “Code with purpose, build with passion, and innovate for impact.”
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=adnanadriansyah&label=Profile%20Views&color=0e75b6&style=flat" />
+</p>
+
+<h3 align="center">✨ “Code with purpose, build with passion, and innovate for impact.” ✨</h3>
