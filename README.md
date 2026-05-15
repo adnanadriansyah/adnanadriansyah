@@ -32,7 +32,7 @@ I actively build projects ranging from full-stack websites and Java Swing deskto
 
 | 🎓 | **College** | Politeknik Negeri Lhokseumawe |
 |:---:|:---:|:---|
-| 📚 | **Major** | Informatics |
+| 📚 | **Major** | Informatics Network |
 | 💼 | **Focus** | Full-Stack Web · Java Desktop · IoT |
 | 🌍 | **Location** | Lhokseumawe, Aceh, Indonesia |
 | ✉️ | **Status** | Open to Collaboration |
